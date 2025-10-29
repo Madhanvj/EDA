@@ -9,7 +9,7 @@ snowflake-connector-python
 google-generativeai
 langchain
 langchain-google-genai
-st-aggrid
+streamlit-aggrid
 reportlab
 beautifulsoup4
 Pillow
@@ -17,4 +17,5 @@ pdf2image
 matplotlib
 seaborn
 xlsxwriter
+
 
