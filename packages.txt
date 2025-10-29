@@ -1,6 +1,2 @@
-pkg-config
-libcairo2
-libcairo2-dev
-libpango-1.0-0
-libgdk-pixbuf2.0-0
-libffi-dev
+pdf2image
+pytesseract
