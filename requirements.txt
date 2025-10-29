@@ -1,8 +1,6 @@
 streamlit
 pandas
 requests
-jsonschema
-oracledb
 psycopg2-binary
 mysql-connector-python
 docx2txt
@@ -15,9 +13,8 @@ st-aggrid
 reportlab
 beautifulsoup4
 Pillow
-pytesseract
 pdf2image
-pyodbc
 matplotlib
 seaborn
 xlsxwriter
+
